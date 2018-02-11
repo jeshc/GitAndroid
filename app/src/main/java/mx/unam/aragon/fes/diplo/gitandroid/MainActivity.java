@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
                 txtTexto.setText("Hola Github");
                 Toast.makeText(MainActivity.this,
                             "Se cambió el mensaje en el textView", Toast.LENGTH_SHORT).show();
-
             }
         });
 
